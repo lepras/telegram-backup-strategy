@@ -16,7 +16,33 @@ for your audience to interact if you gone.
 
 Don't give too many controversial and non-woke / anti-scoial statements
 
-# What to do when banned
+# backup account and chats
+
+use git for history and rolling back ease
+
+* channel
+* Group (without channel's content?)
+* Site
+* Telegraph posts
+
+Add contact info and signature
+
+## Settings-> Backup Account in Telegram Desktop
+
+All telegram metadata backup for the account (and secret chats?)
+
+## Creds+Access
+
+you can backup portable dekstop client if you are paranoid.
+
+## Misc
+
+note all main channels and groups to have backed up chats, remove everything else
+
+* bot notes
+* pinned data
+
+# What to do when banned?
 
 taken from [here](https://t.me/juznem/1464)
 
